@@ -1,0 +1,17 @@
+
+### POST http://47.115.42.52:8080/fruit/home
+POST http://127.0.0.1:8088/fruit/home
+Content-Type: application/json
+Accept: application/json
+ServiceId: grape
+Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXNzd29yZCI6IjY3ODkiLCJ1c2VyTmFtZSI6IlpaSCIsImV4cCI6MTYyNjQ5ODAzMiwidXVpZCI6ImNkYzcxZjVlNjI2MDQ0MDQ4MmM4MmU0NjgyOGY3NTc1In0.ZTBTDxKyaXNDvP97cW1Zrg21-QCqMke7lIbSE4BGKAM
+
+{
+  "username": "ZZH",
+  "password": "123456",
+  "code": "123",
+  "uuid": "ggggg"
+}
+###
+
+

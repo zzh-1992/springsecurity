@@ -1,0 +1,18 @@
+
+### POST http://47.115.42.52:8080/index
+POST http://127.0.0.1:8088/index
+Content-Type: application/json
+Accept: application/json
+ServiceId: grape
+##Authorization: dsdsdsdsds
+
+{
+  "username": "grapefruit1111111111",
+  "password": "123456",
+  "code": "123",
+  "uuid": "ggggg"
+}
+
+
+
+
